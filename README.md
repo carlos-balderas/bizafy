@@ -5,6 +5,7 @@ Business analysis platform to do great job
 * Write down the project's requirements.
 * File the project's BPM diagrams.
 * Write down the project's User Stories.
+* Write down the project's Tasks.
 * File the project's Wireframes.
 
 ## Installation
